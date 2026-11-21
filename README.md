@@ -38,13 +38,6 @@ Make sure your code files are saved with the proper names:
 * Name the server code **`server.py`**.
 * Name the client code **`client.py`**.
 
-#### Step 4: Commit the Code
 
-Push your changes to GitHub:
 
-```bash
-git add .
-git commit -m "Add TCP client-server socket communication script and documentation"
-git push origin main
 
-```
